@@ -1,0 +1,23 @@
+.title {
+    margin-top: 60px;
+}
+
+.titleOpener{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #444;
+}
+
+.titleSpan {
+    position: absolute;
+    top: 18%;
+    font-size: 20px;
+}
+
+.titleImg {
+    width: 100%;
+    height: 400px;
+    margin-top: 80px;
+    object-fit: cover;
+}
